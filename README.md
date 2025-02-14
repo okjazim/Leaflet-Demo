@@ -72,9 +72,9 @@ The storm paths are colored based on their category:
 - Category 5 Hurricane - Purple
   
 ## Screenshots
-
-- In Progress
-
+![Screenshot (15)](https://github.com/user-attachments/assets/93490d50-9137-48dd-bfb7-c01e661fca7a)
+![Screenshot (16)](https://github.com/user-attachments/assets/eec324ca-a0fe-4a6d-be4c-b3450b5016dc)
+![Screenshot (17)](https://github.com/user-attachments/assets/2af92b0e-4507-42e1-8454-44f2907a7aaa)
 ## License
 
 This project is open-source and available under the MIT License.
