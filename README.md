@@ -21,7 +21,7 @@ This project visualizes the paths of hurricanes from 2020 using Leaflet.js and d
 ### 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/okjazim/Leaflet-Demo
+git clone https://github.com/okjazim/Leaflet-Demo
 cd Leaflet-Demo
 ```
 ### 2. Start a localhost server:
